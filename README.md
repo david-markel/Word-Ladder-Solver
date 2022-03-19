@@ -1,7 +1,7 @@
 # Word-Ladder-Solver
 Python application that takes two words and finds the shortest path of a chain of real words connected by changing one letter at a time
 
-Enter in starting word, followed by target word. CAUTION: This program will run indefinitely if there is no solution, which is entirely possible. Make sure both words are of the same length. 
+Enter in starting word, followed by target word. CAUTION: This program will run indefinitely if there is no solution, which is entirely possible. Make sure both words are of the same length. To run, simply compile and build this program. 
 
 Example run: 
 
